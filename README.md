@@ -1,6 +1,6 @@
 # IAMIN-Spend-Dashboard
 
-:heavy_check_mark: You need not create the UI for the sections marked with the red cross.
+:heavy_check_mark: You need not create the UI for the sections marked with the red cross. <br/>
 :heavy_check_mark: The whole UI should be refreshable.
 :heavy_check_mark: Category spend amount, Category percentage & Tile.
 :heavy_check_mark: Total amount of all payment categories has to be constant ₹10,000.
